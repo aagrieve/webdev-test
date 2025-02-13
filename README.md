@@ -28,7 +28,8 @@ Extensions:
 
 Helpful Links:
 1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-2. https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+2. https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+3. https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
 
 ## Notes
 
